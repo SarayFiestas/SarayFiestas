@@ -16,4 +16,6 @@ Ingeniera Industrial y de Sistemas de profesión, apasionada por el aseguramient
     * *Marzo 2017 - Diciembre 2021*
     * UNIVERSIDAD DE PIURA
 
-
+## Habilidades 
++ Quality Assurance Tester
++ Project Management
