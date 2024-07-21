@@ -4,8 +4,6 @@ Ingeniera Industrial y de Sistemas de profesión, apasionada por el aseguramient
 ## Experiencia
 + Analista de aplicaciones académicas 
     * *Marzo 2023 - Actualidad*
-
-
 + Asistente de investigación
     * *Enero 2022 - Enero 2024*
 ## Educación
@@ -15,5 +13,8 @@ Ingeniera Industrial y de Sistemas de profesión, apasionada por el aseguramient
 + Ingeniería Industrial y de Sistemas
     * *Marzo 2017 - Diciembre 2021*
     * UNIVERSIDAD DE PIURA
+ ## Idiomas
++ Español - *Idioma nativo*
++ Ingles - *Nivel Intermedio*
 
 
