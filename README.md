@@ -15,6 +15,10 @@ Ingeniera Industrial y de Sistemas de profesión, apasionada por el aseguramient
 + Ingeniería Industrial y de Sistemas
     * *Marzo 2017 - Diciembre 2021*
     * UNIVERSIDAD DE PIURA
+    * 
+## Hobbies
+* Hacer postres
+* Ver series de casos médicos
 
 ## Habilidades 
 + Quality Assurance Tester
